@@ -4,8 +4,8 @@ TODO, if applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-The classmate I will be working with is Gillian Conricode. 
-- Email: tui04203@temple.edu 
+The classmate I will be working with is Shree Mahida. 
+- Email: tuf16632@temple.edu 
 - TA: Tamara Katic
 
 TODO, if applicable
